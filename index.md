@@ -2,7 +2,7 @@
 </script>
 
 
-# Hello, thank you for your visiting.
+# Hello, thank you for visiting my page.
 
 I am still constructing this page. You may contact me with my email: <br>
 Colin.Cleveland.formal [at] gmail [dot] com
