@@ -4,9 +4,10 @@
 </script>
 
 
-# Hello, thank you to visit my page.
+# Hello, thank you for your visiting.
 
-I am still constructing this page. If you want to contact me, please send me an email:
+I am still constructing this page. You may contact me with my email:
+
 Colin.Cleveland.formal [at] gmail [dot] com
 
 
