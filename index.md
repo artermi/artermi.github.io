@@ -7,10 +7,12 @@
 I am still constructing this page. You may contact me with my email: <br>
 Colin.Cleveland.formal [at] gmail [dot] com
 
-Here is my
+Here are my [CV](AcademicCV.pdf) (pdf file) and [My Notes of some Courses and Books](note.html).
+
+
 
 <!--
-Some thing $$\frac{1}{2}$$.
+Some thing $$\frac{1}{2}​$$.
 
-$$\frac{1}{2}$$
+$$\frac{1}{2}​$$
 -->
