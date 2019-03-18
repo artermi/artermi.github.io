@@ -9,7 +9,7 @@ Colin.Cleveland.formal [at] gmail [dot] com
 
 Here is my
 
-<--
+<!--
 Some thing $$\frac{1}{2}$$.
 
 $$\frac{1}{2}$$
