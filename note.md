@@ -8,7 +8,7 @@ I now type everything in pdf file (with Overleaf).
 
 ### Academy
 
-- [Algorithmic Game Theory](https://hackmd.io/c/BJzlR0hvN/%2F99dm7XCiRGmgceAkEDPXPQ)
+- [Algorithmic Game Theory](AGT.html)
 - [Mathematical Analysis](Analysis.html)
 - Probability Theory
 - Concrete Mathematics
