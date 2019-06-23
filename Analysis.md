@@ -14,7 +14,6 @@ Colin Cleveland
 2. Series and Sequence (Basic, Functions)
 3. Differentiation (Basic, Multiple Variables)
 4. Inverse and Implicit Function Theorem
-5. Measure Theory [overleaf](https://www.overleaf.com/read/svvbjwswtgkc)
 6. Integration (Basic, Multiple Variable, Lebegue) <br>
    Differential Form [pdf](/Analysis_Note/Analysis_DifferentialForm_Note.pdf) [overleaf](https://www.overleaf.com/read/sgbnqfwyjznp) <br>
    Lebesgue Measure Theory [pdf](/Analysis_Note/Analysis_LebesgueMeasure_Note.pdf) [overleaf](https://www.overleaf.com/read/svvbjwswtgkc)
