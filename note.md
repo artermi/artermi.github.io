@@ -6,7 +6,7 @@ In the first hand, I wanted to type everything in Hackmd, since markdown is easy
 
 I now type everything in pdf file (with Overleaf). 
 
-### Academy
+### Academic
 
 - [Algorithmic Game Theory](AGT.html)
 - [Mathematical Analysis](Analysis.html)
