@@ -4,7 +4,7 @@ My notes was written in Overleaf, Hackmd, and hand-written.
 
 In the first hand, I wanted to type everything in Hackmd, since markdown is easy and beautify. However, I later found out markdown compiles very slow if it contains a lot of mathematic notations.
 
-I now type everything in pdf file (with Overleaf). 
+I now type everything in pdf file (with Overleaf or my iPad Handwriting). 
 
 ### Academic
 
@@ -13,9 +13,11 @@ I now type everything in pdf file (with Overleaf).
 - Probability Theory
 - Concrete Mathematics
 - Microeconomics
+- Voting Theory
 
 
 
 ### For Leisure 
 
-- Warfare Theory
+- [Language Learning](Language)
+
