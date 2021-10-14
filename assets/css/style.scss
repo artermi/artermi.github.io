@@ -8,6 +8,10 @@
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+img {
+  max-width:50%;
+}
+
 @import "{{ site.theme }}";
 
 .header {
