@@ -1,16 +1,15 @@
 ---
 ---
 
-$container-max-width: 1000px;
-
-.container {
-  width: 90%;
-  max-width: $container-max-width;
-  margin: 0 auto;
+.wrapper {
+  width:900px;
+  margin:0 auto;
 }
 
 header {
-  width: 100%;
+  width:200px;
+  float:none;
+  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -19,30 +18,48 @@ img {
 }
 
 section {
-  margin: 0 0 20px 0;
+  width:600px;
+  float:right;
+  padding-bottom:50px;
 }
 
+footer {
+  width:200px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
 
 @import "{{ site.theme }}";
 
-.container {
-  width: 90%;
-  max-width: $container-max-width;
-  margin: 0 auto;
+.wrapper {
+  width:900px;
+  margin:0 auto;
 }
-
 
 header {
-  width: 100%;
+  width:200px;
+  float:none;
+  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-
 
 img {
   max-width:100%;
 }
 
 section {
-  margin: 0 0 20px 0;
+  width:600px;
+  float:right;
+  padding-bottom:50px;
+}
+
+footer {
+  width:200px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
