@@ -3,7 +3,7 @@
 
 
 header {
-  width:150px;
+  width:170px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -17,12 +17,20 @@ section {
   width:600px;
   float:right;
   padding-bottom:50px;
+}
+
+footer {
+  width:170px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 @import "{{ site.theme }}";
 
 header {
-  width:150px;
+  width:170px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -36,4 +44,12 @@ section {
   width:600px;
   float:right;
   padding-bottom:50px;
+}
+
+footer {
+  width:170px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
