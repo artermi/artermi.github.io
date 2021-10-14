@@ -1,8 +1,8 @@
 ---
 ---
 
-header {
-  width:170px;
+.header {
+  width:100px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -10,8 +10,8 @@ header {
 
 @import "{{ site.theme }}";
 
-header {
-  width:170px;
+.header {
+  width:100px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
