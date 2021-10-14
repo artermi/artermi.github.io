@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Notes of some Topics.
 
 My notes was written in Overleaf, Hackmd, and hand-written. 
