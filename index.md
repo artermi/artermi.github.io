@@ -29,13 +29,13 @@ Minor in *Mathematics and Economics*
 
 ## Research Experience
 
-**Research on Algorithmic Game Theory (NTU)**	Jun 2018 - Jun 2019,  Mar 2021 - present
+**Research on Algorithmic Game Theory (NTU)**	Jun 2018 - Jun 2019,  Mar 2021 - present<br>
 Supervised by Professor Ho-Lin Chen
 
-**Research on Public Goods Game (Academia Sinica)**	Jun 2020 - present
+**Research on Public Goods Game (Academia Sinica)**	Jun 2020 - present<br>
 Supervised by Dr Hsuan-Wei Lee
 
-**Lab of Algorithmic Research (NTU)** Feb 2018 - Aug 2018
+**Lab of Algorithmic Research (NTU)** Feb 2018 - Aug 2018<br>
 Supervised by Professor Hsueh-I Lu
 
 ## Working Experience
