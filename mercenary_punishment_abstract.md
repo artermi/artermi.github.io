@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 ## Abstract of Mercenary punishment in structured populations
