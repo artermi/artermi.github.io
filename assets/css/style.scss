@@ -1,15 +1,17 @@
 ---
 ---
 
-.header {
-  width:100px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
+
 
 img {
   max-width:30%;
 }
 
 @import "{{ site.theme }}";
+
+.header {
+  width:100px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
