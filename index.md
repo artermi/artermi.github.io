@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<script type="text/javascript" async="" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML ">
-</script>
-
 # Welcome to my page! Vítejte!
 
 My name is Colin Cleveland. I am a master student in National Taiwan University (NTU) Electronic Engineering department with a research interest in **Algorithmic Game Theory**. My current work focuses on Voting Theory. 
