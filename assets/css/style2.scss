@@ -1,16 +1,12 @@
 ---
 ---
 
-.wrapper {
-  width:900px;
-  margin:0 auto;
-}
 
 header {
-  width:170px;
-  float:none;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 100%;
+  border-bottom: 1px dashed $conifer; //header;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
 }
 
 img {
@@ -18,47 +14,32 @@ img {
 }
 
 section {
-  width:600px;
-  float:right;
-  padding-bottom:50px;
+  margin: 0 0 20px 0;
 }
 
-footer {
-  width:200px;
-  float:left;
-  position:fixed;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
 
 @import "{{ site.theme }}";
 
-.wrapper {
-  width:900px;
-  margin:0 auto;
+.container {
+  width: 90%;
+  max-width: $container-max-width;
+  margin: 0 auto;
 }
 
+
 header {
-  width:200px;
-  float:none;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 100%;
+  border-bottom: 1px dashed $conifer; //header;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
 }
+
 
 img {
   max-width:100%;
 }
 
 section {
-  width:600px;
-  float:right;
-  padding-bottom:50px;
+  margin: 0 0 20px 0;
 }
 
-footer {
-  width:200px;
-  float:left;
-  position:fixed;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
