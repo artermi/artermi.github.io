@@ -3,18 +3,18 @@
 
 
 header {
-  width:100px;
+  width:130px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
 img {
-  max-width:70%;
+  max-width:100%;
 }
 
 section {
-  width:500px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
@@ -22,14 +22,14 @@ section {
 @import "{{ site.theme }}";
 
 header {
-  width:100px;
+  width:130px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
 img {
-  max-width:70%;
+  max-width:100%;
 }
 
 section {
