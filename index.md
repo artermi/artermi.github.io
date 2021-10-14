@@ -4,6 +4,8 @@
 
 # Welcome to my page! Vítejte!
 
+
+
 My name is Colin Cleveland. I am a master student in National Taiwan University (NTU) Electronic Engineering department with a research interest in **Algorithmic Game Theory**. My current work focuses on Voting Theory. 
 
 You may contact me with my email: <br>
@@ -12,6 +14,8 @@ Colin.Cleveland.formal [at] gmail [dot] com
 Here is my [CV](Colin_CV.pdf) (pdf file)
 
 ## Education 
+
+
 
 **National Taiwan University (NTU) **	Feb.2021 - present <br>
 *MS in Electronic Engineering* <br>
