@@ -13,11 +13,11 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ "Main Page" | default: site.github.repository_name }}</a></h1>
       </header>
 
+    <div class="wrapper">
       <section>
 
       {{ content }}
