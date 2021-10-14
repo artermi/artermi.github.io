@@ -13,17 +13,19 @@
     {% include head-custom.html %}
   </head>
   <body>
+
+    <header>
+      <div class="container">
+        <a id="a-title" href="{{ '/' | relative_url }}">
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        </a>
+      </div>
+    </header>
+
     <div class="container">
-      <header> 
-        <h1><a href="{{ "/" | absolute_url }}">{{ "Main page" | default: site.github.repository_name }}</a></h1>
-      </header>
-
-      <section>
-
-      {{ content }}
-
+      <section id="main_content">
+        {{ content }}
       </section>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
