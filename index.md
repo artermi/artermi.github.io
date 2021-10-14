@@ -11,7 +11,11 @@ Colin.Cleveland.formal [at] gmail [dot] com
 
 Here is my [CV](Colin_CV.pdf) (pdf file)
 
-## Education 
+<br>
+
+## Education
+
+<br>
 
 **National Taiwan University (NTU) **	Feb.2021 - present <br>
 *MS in Electronic Engineering* <br>
@@ -28,6 +32,12 @@ Lee, H.-W., **Cleveland, C.**, and Szolnoki, A. Mercenary punishment in structur
 Lee, H.-W., **Cleveland, C.**, and Szolnoki, A. Small fraction of selective players can elevate general cooperation level significantly. *Physica A (2021)*. [arxiv](https://arxiv.org/abs/2106.14654)
 
 ## Experience
+
+During July 2019 to December 2019, I studied Japanese in [Global Village](http://www.gvo.com.tw/) after I got the job offer from Fukuoka Finance Group.
+
+### Full Time
+
+
 
 
 
