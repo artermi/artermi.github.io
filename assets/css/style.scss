@@ -10,7 +10,14 @@
 }
 
 .img {
-  max-width:30%;
+  max-width:50%;
 }
 
 @import "{{ site.theme }}";
+
+.header {
+  width:100px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
