@@ -11,13 +11,9 @@ Colin.Cleveland.formal [at] gmail [dot] com
 
 Here is my [CV](Colin_CV.pdf) (pdf file)
 
-<br>
-
 ## Education
 
-<br>
-
-**National Taiwan University (NTU) **	Feb.2021 - present <br>
+**National Taiwan University (NTU)**	Feb.2021 - present <br>
 *MS in Electronic Engineering* <br>
 Supervided by Ho-Lin Chen in the Laboratory of Algorithms
 
@@ -37,7 +33,7 @@ During July 2019 to December 2019, I studied Japanese in [Global Village](http:/
 
 ### Full Time
 
-
+**
 
 
 
