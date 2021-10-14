@@ -13,9 +13,7 @@ Here is my [CV](Colin_CV.pdf) (pdf file)
 
 ## Education 
 
-
-
-***National Taiwan University (NTU) **	Feb.2021 - present <br>
+**National Taiwan University (NTU) **	Feb.2021 - present <br>
 *MS in Electronic Engineering* <br>
 Supervided by Ho-Lin Chen in the Laboratory of Algorithms
 
