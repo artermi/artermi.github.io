@@ -1,6 +1,10 @@
 ---
 ---
 
+.wrapper {
+  width:1010px;
+  margin:0 auto;
+}
 
 header {
   width:170px;
@@ -28,6 +32,11 @@ footer {
 }
 
 @import "{{ site.theme }}";
+
+.wrapper {
+  width:1010px;
+  margin:0 auto;
+}
 
 header {
   width:200px;
