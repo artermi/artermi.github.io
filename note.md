@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Notes of some Topics.
 
