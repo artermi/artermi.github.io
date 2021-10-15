@@ -1,16 +1,11 @@
----
-layout: default
----
-
 Analysis
 ===
 
 This is my note of mathematical analysis. The content is mainly from these book: “Mathematical Analysis by Apostol”, “Elementary Classical Analysis by Marsden”, “Real Mathematical Analysis by Pugh”.
 
-Instead of covering all the topics in this note, I merely covered some important topics I have learned. If I wrote anything wrong, please send me an Email (Colin.Cleveland.Formal [at] gmail [dot] com).
+Instead of covering all the topics in this note, I merely covered some important topics I have learned. If I wrote anything wrong, please send me an email.
 
 Thank you.
-Colin Cleveland
 
 ## What is included:
 
