@@ -8,8 +8,9 @@ My name is Colin Cleveland. I am a master student in National Taiwan University 
 
 Besides of my research, I am a part-time behavioral science researcher in MobLab Inc. 
 
-You may contact me with my email: <br>
-Colin.Cleveland.formal (at) Gmail
+<br>
+
+*(Last Update: 15th Oct. 2021)*
 
 <!--
 Some thing $$\frac{1}{2}$$.
