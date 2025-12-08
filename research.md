@@ -5,7 +5,7 @@ Currently, I am working on topics of Voting theory advised by [Dr Bart de Keijze
 ## Voting Theory
 
 
-- **Optimal Candidate Positioning in Multi-Issue Elections** (Accepted/In press). Colin Cleveland*, Bart De Keijzer*, Maria Polukarov. In ECAI 2025: 28th European Conference on Artificial Intelligence, 25-30 October 2025, Bologna, Italy – Including 14th Conference on Prestigious Applications of Intelligent Systems (PAIS 2025) IOS Press. ([arxiv link](https://doi.org/10.48550/arXiv.2508.13841))
+- **Optimal Candidate Positioning in Multi-Issue Elections** (Accepted/In press). Colin Cleveland\*, Bart De Keijzer\*, Maria Polukarov. In ECAI 2025: 28th European Conference on Artificial Intelligence, 25-30 October 2025, Bologna, Italy – Including 14th Conference on Prestigious Applications of Intelligent Systems (PAIS 2025) IOS Press. ([arxiv link](https://doi.org/10.48550/arXiv.2508.13841))
 
 \* : Equal Contribution
 
