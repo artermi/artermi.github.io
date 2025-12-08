@@ -7,7 +7,7 @@ Currently, I am working on topics of Voting theory advised by [Dr Bart de Keijze
 
 - **Optimal Candidate Positioning in Multi-Issue Elections** (Accepted/In press). Colin Cleveland, Bart De Keijzer, Maria Polukarov. In ECAI 2025: 28th European Conference on Artificial Intelligence, 25-30 October 2025, Bologna, Italy – Including 14th Conference on Prestigious Applications of Intelligent Systems (PAIS 2025) IOS Press. ([arxiv link](https://doi.org/10.48550/arXiv.2508.13841))
 
-### Manuscript Under Review (Available Upon Request)
+#### Manuscript Under Review (Available Upon Request)
 
 - **The Complexity of Strategic Behavior in Primary Elections** Colin Cleveland, Bart De Keijzer, Maria Polukarov
 
@@ -16,6 +16,8 @@ Currently, I am working on topics of Voting theory advised by [Dr Bart de Keijze
 
 ## Evolutionary Game Theory
 
+- **Context-sensitive norm enforcement reduces sanctioning costs in spatial public goods games** Hsuan-Wei Lee, Colin Cleveland, Attila Szolnoki. In *Applied Mathematics and Computation, vol. 508, p. 129 626, 2026* [doi.org link](https://doi.org/10.1016/j.amc.2025.129626)
+ 
 - **Mercenary punishment in structured populations** Hsuan-Wei Lee, Colin Cleveland, Attila Szolnoki. In *Applied Mathematics and Computation* Volume 417, 15 March 2022, 126797 [doi.org link](https://doi.org/10.1016/j.amc.2021.126797)
 
 - **Small fraction of selective cooperators can elevate general wellbeing significantly**. Hsuan-Wei Lee, Colin Cleveland, Attila Szolnoki. In *Physica A: Statistical Mechanics and its Applications*
