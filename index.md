@@ -18,7 +18,7 @@ Here are some other links of my academic profiles:
 
 <br>
 
-###### `(Last Update: 9th Oct. 2025)`
+###### `(Last Update: 8th Dec 2025)`
 
 <!--
 Some thing $$\frac{1}{2}$$.
