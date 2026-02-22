@@ -8,7 +8,7 @@ For those who are busy, here is my [CV](Colin_CV.pdf) (pdf file).
 *MS in Electronic Engineering* <br>
 Supervided by Ho-Lin Chen in the Laboratory of Algorithms
 
-GPA: 4.17/4.3
+GPA: 4.08/4.3
 
 **National Taiwan University (NTU)**	Sep 2014 - June 2019<br>
 *BS in Computer Science and Information Engineering* <br>
