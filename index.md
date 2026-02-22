@@ -4,21 +4,22 @@ layout: default
 
 # Welcome to my page!
 
-My name is Colin Cleveland. I am a PhD Candidate in King's Colege London (KCL, UK) Informatic department.  I am working on **Algorithmic Game Theory** research (more precisely, Voting Theory) under [Dr Bart de Keijzer](https://www.kcl.ac.uk/people/bart-de-keijzer) and [Dr Maria Polukarov](https://www.kcl.ac.uk/people/maria-polukarov)'s supervision. I also research in **Evolutionary Game Theory** with [Dr Hsuan-Wei Lee](https://sites.google.com/view/hsuanweilee/research) in Lehigh University (US).
+My name is Colin Cleveland. I am a PhD Candidate in King's College London (KCL, UK) Informatic department.  I am working on **Algorithmic Game Theory** research (more precisely, Voting Theory) under [Dr Bart de Keijzer](https://www.kcl.ac.uk/people/bart-de-keijzer) and [Dr Maria Polukarov](https://www.kcl.ac.uk/people/maria-polukarov)'s supervision. I also research in **Evolutionary Game Theory** with [Dr Hsuan-Wei Lee](https://sites.google.com/view/hsuanweilee/research) in Lehigh University (US).
 
-Besides of my research, I also teach as a Graduate Teaching Assistant for courses including Elementary Logic, Fundamentals of Computation, and Software Engineering.. 
+Besides my research, I also teach as a Graduate Teaching Assistant for courses including Elementary Logic, Fundamentals of Computation, and Software Engineering. 
 
-Here are some other links of my academic profiles:
+Here are some other links to my academic profiles:
 1. [Google Scholar](https://scholar.google.com/citations?user=aiUwFyEAAAAJ&hl=en)
 2. [King's People](https://www.kcl.ac.uk/people/colin-cleveland)
 
 ## Activities
-- Contributed talk: [PRAGMA FEST!](https://home.agh.edu.pl/~pragma/pragmafest/), October 22-24, Krakow Poland.
+- I serve as a PC member of EC 2026.
+- Contributed talk: [PRAGMA FEST!](https://home.agh.edu.pl/~pragma/pragmafest/), October 22-24, Krakow, Poland.
 - Presentation (M5755): [Ecai 2025](https://ecai2025.org/), October 25-30, Bologna Italy.
 
 <br>
 
-###### `(Last Update: 8th Dec 2025)`
+###### `(Last Update: 22nd Feb 2026)`
 
 <!--
 Some thing $$\frac{1}{2}$$.
