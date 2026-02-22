@@ -4,14 +4,13 @@ Currently, I am working on topics of Voting theory advised by [Dr Bart de Keijze
 
 ## Voting Theory
 
+- **Colin Cleveland**, Bart de Keijzer, Maria Polukarov, **The Complexity of Strategic Behavior in Primary Elections** (Accepted). In AAMAS 2026: The 25th International Conference on Autonomous Agents and Multi-Agent Systems. [arXiv](https://arxiv.org/abs/2602.10290)
+- **Colin Cleveland**\*, Bart de Keijzer\*, Maria Polukarov, **Optimal Candidate Positioning in Multi-Issue Elections** (Accepted/In press). In ECAI 2025: The 28th European Conference on Artificial Intelligence, 25-30 October 2025, Bologna, Italy – Including 14th Conference on Prestigious Applications of Intelligent Systems (PAIS 2025) IOS Press. [arXiv](https://doi.org/10.48550/arXiv.2508.13841)
 
-- **Colin Cleveland**\*, Bart De Keijzer\*, Maria Polukarov, **Optimal Candidate Positioning in Multi-Issue Elections** (Accepted/In press). In ECAI 2025: 28th European Conference on Artificial Intelligence, 25-30 October 2025, Bologna, Italy – Including 14th Conference on Prestigious Applications of Intelligent Systems (PAIS 2025) IOS Press. ([arxiv link](https://doi.org/10.48550/arXiv.2508.13841))
 
 \* : Equal Contribution
 
 #### Manuscript Under Review (Available Upon Request)
-
-- **The Complexity of Strategic Behavior in Primary Elections** Colin Cleveland, Bart De Keijzer, Maria Polukarov
 
 - **Prospect-Theoretic Voting: Strategic Implications and Computational Limits** Colin Cleveland, Bart De Keijzer, Maria Polukarov
 
